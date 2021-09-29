@@ -1,0 +1,7 @@
+run = "dotnet run"
+
+[packager]
+language = "dotnet"
+
+[packager.features]
+packageSearch = true
